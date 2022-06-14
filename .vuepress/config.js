@@ -80,15 +80,7 @@ module.exports = {
     "author": "Lei",
     "authorAvatar": "/icon.png",
     "startYear": "2022",
-    "noFoundPageByTencent": false,
-    /* 使用vssue评论插件 */
-    // "vssueConfig": {
-    //   platform: 'github',
-    //   owner: 'Lei',
-    //   repo: 'lilei2603.github.io',
-    //   clientId: 'b82c285149c318e4f4cb',
-    //   clientSecret: '9fe0b5cd9313569ad6e55c0ec681e484cb95d75b',
-    // }
+    "noFoundPageByTencent": false
   },
   "markdown": {
     "lineNumbers": true
@@ -99,18 +91,5 @@ module.exports = {
     }
   },
   // 插件
-  plugins: [
-    // [
-    //   '@vuepress-reco/vuepress-plugin-bgm-player',  // BGM播放器
-    //   {
-    //     autoShrink: true,
-    //     audios: [
-    //       {name: 'Farewell',artist: 'Zachary Bruno',url: 'https://lilei2603.github.io/music/Farewell.m4a',cover: 'https://p1.music.126.net/1iviscxYPqA3nzYDJaV1aQ==/109951164853199947.jpg'},
-    //       {name: 'Maybe',artist: 'Xeuphoria',url: 'https://lilei2603.github.io/music/Maybe.m4a',cover: 'https://p1.music.126.net/RIlvG8pmnAdnPKWEc4I3kA==/109951164719457831.jpg'},
-    //       {name: 'Sonoran Sunset',artist: 'Zachary Bruno',url: 'https://lilei2603.github.io/music/SonoranSunset.m4a',cover: 'https://p2.music.126.net/NV8L4tvWpyrcB7OY5G170A==/109951164849177543.jpg'},
-    //       {name: 'I Miss You',artist: 'Xeuphoria',url: 'https://lilei2603.github.io/music/IMissYou.m4a',cover: 'https://p2.music.126.net/RIlvG8pmnAdnPKWEc4I3kA==/109951164719457831.jpg'}
-    //     ],
-    //   },
-    // ]
-  ]
+  plugins: []
 }
