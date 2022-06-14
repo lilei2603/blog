@@ -1,7 +1,9 @@
 {
   "name": "blog",
+  "private": "true",
+  "license": "MIT",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "LEI",
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build .",
