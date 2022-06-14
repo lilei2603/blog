@@ -1,7 +1,21 @@
-**[llei.cf](https://llei.cf)**
-
-my blog website powered by [VuePress](https://www.vuepress.cn/)
-
-<br>
-
-<samp>code is licensed under <a href='./LICENSE'>MIT</a>,<br> words and images are licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a></samp>.
+---
+home: true
+heroText: LEI'S ZONE
+tagline: 这辈子没法做太多的事情，所以每一件都要做到精彩绝伦！
+heroImage: /background.gif
+heroImageStyle: {
+  display: block,
+  maxHeight: '280px',
+  maxWidth: '100%'
+}
+isShowTitleInHome: false
+actionText: 精彩开启 →
+actionLink: /blogs/other/guide
+features:
+- title: Yesterday
+  details: 开发一款看着开心、写着顺手的 vuepress 博客主题
+- title: Today
+  details: 希望帮助更多的人花更多的时间在内容创作上，而不是博客搭建上
+- title: Tomorrow
+  details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
+---
