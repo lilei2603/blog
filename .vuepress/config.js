@@ -1,4 +1,5 @@
 module.exports = {
+  "base": "/blog/",
   "title": "LEI'S ZONE",
   "description": "这辈子没法做太多的事情，所以每一件都要做到精彩绝伦！",
   "dest": "public",
