@@ -54,17 +54,6 @@ sticky: 1
 
 8. 我们创建一个“index.html”，这里我们随便编写一下首页代码，后续我们可通过相关的博客框架进行开发。
 
-   ```html
-   <html>
-       <head>
-           <title>My Blog</title>
-       </head>
-       <body>
-           <h1>This is my blog</h1>
-       </body>
-   </html>
-   ```
-
    ![img](https://lilei2603.github.io/images/freenom-cloudFlare-githubPages/github-8.png)
 
 9. 首页创建完成后，我们点击“Settings”按钮，查看我们的GitHub Pages是否正常启用。
