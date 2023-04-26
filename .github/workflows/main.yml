@@ -20,7 +20,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
         with:
-        node-version: ${{ matrix.node-version }}
+          node-version: ${{ matrix.node-version }}
       # 生成静态文件
       - name: Install and Build 🔧
         run: |
