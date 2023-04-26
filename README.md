@@ -6,7 +6,8 @@ heroImage: /background.gif
 heroImageStyle: {
   display: block,
   maxHeight: '280px',
-  maxWidth: '100%'
+  maxWidth: '100%',
+  margin: '2rem auto'
 }
 isShowTitleInHome: false
 actionText: 精彩开启 →
