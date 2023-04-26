@@ -18,8 +18,6 @@ sticky: 1
 
 :::
 
-<!-- more -->
-
 ## 前言
 
 拥有一个自己的博客, 是每个程序员的梦想。个人博客的搭建方式也是各种各样，如果你只是想单纯做一个博客，和世界分享你的观点和视角，那么我推荐使用 [GitHub Pages](https://github.com/)，接下来开始进入主题，利用[Freenom](https://www.freenom.com/) + [CloudFlare](https://www.cloudflare.com/) + [GitHub Pages](https://github.com/)（“白嫖使我快乐”三件套）开始搭建个性化域名的个人博客网站。
@@ -183,8 +181,6 @@ sticky: 1
 
 ::: danger
 本文作者：Lei
-
-<!-- 本文链接：<https://lilei2603.github.io/blogs/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2020/freenom-cloudFlare-githubPages.html> -->
 
 版权声明：本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议。非商业转载及引用请注明出处（作者、原文链接），商业转载请联系作者获得授权。
 :::

@@ -85,11 +85,11 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   },
-  locales: {
-    '/': {
-      lang: 'zh-CN'
+  "locales": {
+    "/": {
+      "lang": "zh-CN"
     }
   },
   // 插件
-  plugins: []
+  "plugins": []
 }
